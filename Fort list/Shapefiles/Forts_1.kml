@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Forts_1" id="Forts_1">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Id" type="float"></SimpleField>
+	<SimpleField name="Fort_Name" type="string"></SimpleField>
+</Schema>
+<Folder><name>Forts_1</name>
+  <Placemark>
+	<name>Purandar</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Purandar</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9733505,18.2831482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rajgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Rajgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6822128,18.2469594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinhgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Sinhgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7558985,18.3663374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kamalgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Kamalgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7452555,17.967344,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raigad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Raigad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4463501,18.2347725,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bankot</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Bankot</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.042388,17.9735081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pratapgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Pratapgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5800743,17.9339072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pandavgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Pandavgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8634872,17.9983255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chandan</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Chandan</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0462208,17.8469993,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ajinkyatara</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Ajinkyatara</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9903879,17.6723611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasota</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Vasota</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6969757,17.6634059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaygad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Jaygad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2214737,17.3005753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ratnadurg</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Ratnadurg</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.269968,16.9961153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gowalkot</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Gowalkot</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4879351,17.5465393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prachitgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="descriptio">Prachitgad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6911392,17.2266028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhavanigad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5698984,17.2479668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sindhudurga</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">1</SimpleData>
+		<SimpleData name="Fort_Name">Sindhudurga</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4598042709867,16.0421474110036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Devgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">2</SimpleData>
+		<SimpleData name="Fort_Name">Devgad</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3720877995573,16.3854239043804,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vijaydurga</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">3</SimpleData>
+		<SimpleData name="Fort_Name">Vijaydurga</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.333381046543,16.5609077058879,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vetalgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">4</SimpleData>
+		<SimpleData name="Fort_Name">Vetalgad</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5992239234496,16.0661264956346,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarjekot</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">5</SimpleData>
+		<SimpleData name="Fort_Name">Sarjekot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4622481645163,16.0853113024345,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rangana</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">6</SimpleData>
+		<SimpleData name="Fort_Name">Rangana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8444938315095,16.0789452286223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nivati</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="Id">7</SimpleData>
+		<SimpleData name="Fort_Name">Nivati</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5117749632383,15.938294201731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Jadhavgadh, Pune</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.002532,18.395741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Torna Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6219158,18.2769367,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Visapur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4879693,18.7199046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lohgad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4778492,18.707257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahimangad Fort.</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4633391,17.7019752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kavlya Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6101861,18.1338413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harnai Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0955493,17.8124827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kondhavi Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4543645,17.9209228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mandangad fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2429931,17.981908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Murud-Janjira Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9644331,18.2999036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Korlai Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9081053,18.5363186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kalyangad fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9879614,17.6856721,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhushangad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4067526,17.4648883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gopalgad fort (गोपाळगड किल्ला )</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1519163,17.5716445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Affan Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2197691,17.2942578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navtedurg Fort नवतेदुर्ग</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4028504,17.412348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barwai Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6241591,17.5195208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dabhol Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1819057,17.5946634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panhaldurg Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2348294,17.6480541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pranaldurg (Padmanabhdurg) Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2423832,17.6430076,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suvarnadurga Fort, सुवर्णदुर्ग किल्ला</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.084429,17.8159553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fattegad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.089216,17.8093717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vandan Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0345049,17.838584,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subhanmangal Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9771914,18.1545685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malhargad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0494502,18.4120704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vairaatgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.918945,17.877992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pawangad fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8975221,17.8639791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhudargad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1409885,16.2526443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivgad Fort, Dajipur</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8423809,16.4128898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chandragad Fort ( चंद्रगड किल्ला )</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6195232,18.0015059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manohar Mansantosh Gad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9698714,16.0505552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahadev Gad (Valley )</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9768805,15.9709592,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gagan Gad, Gaganbawada</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8182885,16.5432537,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sangli Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5658787,16.858339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramgad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6116922,16.2373893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samangad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4012635,16.173006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alang Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6608921,19.5831714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paranda Fort Mahadwar</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4542923,18.2707837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manjarsumba Fort.</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.748981,19.2507253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dharur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1036642,18.8189095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort of Kharda</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4747868,18.6332224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karmala Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.191233,18.4085075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivgadh Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7036975,19.3601919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deogiri Daulatabad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2131507,19.9427145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2354157,20.428541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Ankai</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4429651,20.1877065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rajdeher fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8887348,20.3019685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Tankai</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4549908,20.1915456,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pedka Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9639493,20.2452016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manikpunj fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7233284,20.238271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lonjha Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2045166,20.4205931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pemgiri Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0929955,19.4647293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Katra Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3909705,20.1982567,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vichitragad Fort Rohida</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8208089,18.1020159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raireshwar Fort/Plateau / Temple</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7206918,18.0463892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mohangad Fort (Durgadicha Killa)</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6206587,18.0776679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Dasgaon</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3558392,18.0908572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Mahendragad, Chambhargad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4290708,18.0948064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Songad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.389247,18.098073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jangali Jaigad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7536695,17.5263553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bagani Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3818393,16.9061989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panhala Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1078459,16.8113091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Bhuikot</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1274424,16.9818325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Bahadurwadi</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3137047,16.9086719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Koldurg fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.840734,17.2312961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santosh Gadh Fort(संतोषगड किल्ला)</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3227897,17.858309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Varugad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4423723,17.8526365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Machindragad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2686296,17.1633236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadsar Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8028693,19.2708401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivneri Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8562858,19.1934786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.910651,19.741177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patta fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.836966,19.706435,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmednagar Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.753295,19.0965525,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palashi Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4008802,19.2820979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahaji Shinde Fort, jamgaon,Ahmednagar</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.51683,19.067066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vasai Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8155814,19.330538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DHODAP KILLA</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0311736,20.3848329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metghar Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5211286,19.9210524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kavnai Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6194116,19.7733874,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dharmapuri Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6323262,18.7303047,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terekhol Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6865158,15.7214611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kharepatan Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6185373,16.5572278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Purnagad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3149561,16.8080173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yashwantgad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3566785,16.6295331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satavali fort (साटवलीचा किल्ला)</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4564278,16.7584123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kolakewadi Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.68495,17.4891691,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sutonda Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.355407,20.4697472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Janjala Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5793041,20.5616088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rajdeher fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8887348,20.3019685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malegaon Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5303807,20.5458411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Galna Fort गाळणा किल्ला</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5355087,20.7742807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Solapur Bhuikot Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9021228,17.6740295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Machanur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5619351,17.5679238,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naldurg Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2895554,17.8171371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mangalwedha Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.44416,17.5107534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sangramdurg Fort Chakan</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.862526,18.7567981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rohilagad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6640183,19.6975507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rohideshwar Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8233582,18.1107028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhuykot Killa Supe 412204</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3772258,18.333179,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Basavakalyan Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9486424,17.8843749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bidar Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5263704,17.9225933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Udaygiri Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1179358,18.4020454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suppa Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7634975,18.8468919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ausa Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4993217,18.2406565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tembhurni Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1896324,18.0283972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Udaygiri Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1179358,18.4020454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gulbarga Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8295577,17.3417985,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9267873,19.8368462,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shahnur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0262323,21.2363049,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Achalpur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5066781,21.2545718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ghosala Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.056373,21.175799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sergarh Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3034685,21.6993894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shergarh Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2656091,21.6401084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Devgarh Fort Chhindwara</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7328872,21.8827301,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jafrabad Killa Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0080003,20.1863801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deulghat Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1152607,20.5142122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bahadurgad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7051742,18.5087315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GAHININATH GAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2651238,18.9165377,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Narayan Gad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5983864,19.0790336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hari Har Gad Trumbak</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4721579,19.905223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vetalwadi Killa Halda Tal Sillod Dist Aurangabad</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.621521,20.5540014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amalner Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0666887,21.0394802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deulghat Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1152607,20.5142122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivneri Killa</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8102648,21.0599085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahilya Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.586826,22.1699246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Asirgarh Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.29272,21.471813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balapur fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7737538,20.6703668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nizamabad Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0797173,18.6638826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Asad Gad Fort Akola</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9900476,20.7062445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manikgarh Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1273975,19.6756056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gawilghur Fort</name>
+	<ExtendedData><SchemaData schemaUrl="#Forts_1">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3357248,21.3826738,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
